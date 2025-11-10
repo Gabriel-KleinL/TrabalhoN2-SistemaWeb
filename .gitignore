@@ -1,0 +1,50 @@
+# Arquivos de resumo e explicação (não devem subir)
+Explicando_para_o_Claude.txt
+Explicando_para_o_Claude.md
+Resumo_do_Claude_para_o_exemplo_dado.txt
+Resumo_do_Claude_para_o_exemplo_dado.md
+Resumo_do_Claude_para_qualquer_exemplo.txt
+Resumo_do_Claude_para_qualquer_exemplo.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Ambiente
+.env
+.env.local
