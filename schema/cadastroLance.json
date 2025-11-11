@@ -1,0 +1,44 @@
+{
+  "lances": [
+    {
+      "id": "LANC001",
+      "leilao_id": "LEIL001",
+      "usuario_id": "USER101",
+      "valor": 1500.00,
+      "data_hora": "2025-11-10T09:30:00",
+      "status": "aceito"
+    },
+    {
+      "id": "LANC002",
+      "leilao_id": "LEIL002",
+      "usuario_id": "USER102",
+      "valor": 3000.00,
+      "data_hora": "2025-11-10T11:15:00",
+      "status": "aceito"
+    },
+    {
+      "id": "LANC003",
+      "leilao_id": "LEIL002",
+      "usuario_id": "USER103",
+      "valor": 3200.00,
+      "data_hora": "2025-11-10T12:45:00",
+      "status": "aceito"
+    },
+    {
+      "id": "LANC004",
+      "leilao_id": "LEIL003",
+      "usuario_id": "USER104",
+      "valor": 2000.00,
+      "data_hora": "2025-11-09T15:00:00",
+      "status": "aceito"
+    },
+    {
+      "id": "LANC005",
+      "leilao_id": "LEIL003",
+      "usuario_id": "USER105",
+      "valor": 2500.00,
+      "data_hora": "2025-11-10T08:20:00",
+      "status": "aceito"
+    }
+  ]
+}
